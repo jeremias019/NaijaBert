@@ -63,3 +63,6 @@ python eval.py
 
 Produce comparative performance plots:
 python visuals.py
+
+# The finetuned model can be found here
+https://huggingface.co/jeremias019/naijabert
